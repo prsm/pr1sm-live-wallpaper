@@ -6,7 +6,7 @@
   "Desc": "Fluid simulation using WebGL, reacts with system audio & cursor.",
   "Author": "PavelDoGreat, customized by okk",
   "License": "MIT",
-  "Contact": "https://github.com/rocksdanister/WebGL-Fluid-Simulation",
+  "Contact": "https://github.com/prsm/pr1sm-live-wallpaper",
   "Type": 2,
   "FileName": "fluid.html"
 }
